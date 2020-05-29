@@ -16,7 +16,7 @@ o1 = re.search(r"<h3 align='center'>(\w*)</h3>",o.text)
 
 o2 = hl.md5(o1.group(1).encode('utf-8')).hexdigest()
 
-print("Sending MD5:-{}".format(o2))
+print("MD5:-{}".format(o2))
 
 
 data = {'hash':o2}
