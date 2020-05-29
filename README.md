@@ -1,5 +1,5 @@
 # CTF-scripts
 
-This consits of scripts for HACK THE BOX CTF's
+This consits of scripts I used for HACK THE BOX CTF's
 
 
